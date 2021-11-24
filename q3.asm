@@ -1,5 +1,3 @@
-# Solution to question 3
-# Author: Dan Farber
 # Description: The program receives a number between -9999 and 9999. It prints the number in the form of 16 bits, and then in reverse.
 # Finally, it prints the number represented by the reverse bits, in base 10.
 
