@@ -1,5 +1,3 @@
-# Solution to question 4
-# Author: Dan Farber
 # Description: The program has an array of numbers stored in the form of bytes. It prints all the numbers divisible by 4 and 8 in reverse
 # according to the requirements provided. It also prints the sum of all the numbers, treated as signed and unsigned, and the differences between
 # every two adjacent numbers. It does all this in base 4, 8 and 10. Finally, it prints whether or not the array is an arithmetic sequence,
